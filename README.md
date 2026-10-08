@@ -112,4 +112,4 @@ Compra realizada com sucesso
 
 | 👤 Nome      | GitHub                                                     |
 |--------------|------------------------------------------------------------|
-| Gustavo Ryan | [github.com/seugithub](https://github.com/gustavoryan-del) |
+| Gustavo Ryan | https://github.com/gustavoryan-del |
